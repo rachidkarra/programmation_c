@@ -3,5 +3,5 @@ Programmation en C
 	- Entrées et sorties (I/O) – L'interaction avec le monde extérieur;
 	- Les structures conditionnelles;
 	- Les structures itératives;
-  - Les tableaux;
+    - Les tableaux;
 	- Les pointeurs – Comprendre l'adressage mémoire.
